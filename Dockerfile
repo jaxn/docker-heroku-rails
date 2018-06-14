@@ -3,7 +3,6 @@ MAINTAINER Bob Olde Hampsink <b.oldehampsink@nerds.company>
 
 # Which versions?
 ENV RUBY_MAJOR_VERSION 2.3.0
-ENV RUBY_VERSION 2.3.0
 ENV RUBY_VERSION 2.3.1
 ENV BUNDLER_VERSION 1.15.2
 ENV NODE_VERSION 8.11.2
